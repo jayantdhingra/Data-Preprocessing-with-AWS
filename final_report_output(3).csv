@@ -1,0 +1,4 @@
+,Install_ID,Install_Date,Phone_Type,Fraud,Fraud_Code
+0,a6cd3609-64e5-4580-b016-b86395b436a4,2019-04-08,android,Fake Device,7
+1,7eb6fdef-2254-40d3-a16d-9fc40003e82e,2019-06-25,android,Incorrect Region,6
+2,a6cd3609-64e5-4580-b016-b86395b436a4,2019-04-08,android,Incorrect Region,6

@@ -1,0 +1,12 @@
+,Description,Value
+0,total_installs,15
+1,valid_installs,2
+2,fraud_installs,13
+3,fraud_code_0_count,2
+4,fraud_code_1_count,2
+5,fraud_code_2_count,1
+6,fraud_code_3_count,0
+7,fraud_code_4_count,1
+8,fraud_code_5_count,3
+9,fraud_code_6_count,3
+10,fraud_code_7_count,3
